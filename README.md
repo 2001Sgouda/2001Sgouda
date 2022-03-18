@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @2001Sgouda
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning webdevelopment.
 
 
 <!---
